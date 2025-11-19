@@ -101,4 +101,3 @@ echo Backup and deletion completed successfully!
 
 # RESULT:
 The commands/batch files are executed successfully.
-
